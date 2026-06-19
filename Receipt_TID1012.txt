@@ -1,0 +1,11 @@
+=================================
+         CINEMA RECEIPT
+=================================
+Ticket ID : TID1012
+Customer  : 2312433
+Movie     : Do_Patti
+Timing    : 9:00AM-11:10AM
+Seat No   : 44
+Category  : Gold
+Amount    : Rs. 1500
+=================================

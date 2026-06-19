@@ -1,0 +1,39 @@
+Do_Patti 1 122 TID1000
+The_Nutcracker 1 123 TID1000
+The_Nutcracker 23 123 TID1000
+The_Nutcracker 2 1213 TID1001
+The_Nutcracker 70 2345 TID1002
+The_Nutcracker 3 Silver 12112 TID1000
+The_Nutcracker 1 Silver 121212112 TID1000
+The_Nutcracker 31 Gold 121212121 TID1001
+The_Nutcracker 11 Silver 121312 TID1000
+Do_Patti 40 Gold 1213121 TID1000
+The_Nutcracker 11 Silver 1212113 TID1000
+The_Nutcracker 40 Gold 112332 TID1001
+The_Nutcracker 63 Platinum 12121 TID1002
+The_Nutcracker 1 Silver 1211211 TID1003
+The_Nutcracker 70 Platinum 121212 TID1004
+Do_Patti 2 Silver 231212 TID1005
+Do_Patti 20 Silver 21212 TID1006
+Do_Patti 3 Silver 321232 TID1007
+Do_Patti 44 Gold 12231 TID1008
+The_Nutcracker 23 Silver 121312 TID1009
+Do_Patti 55 Platinum 121231 TID1010
+The_Nutcracker 4 Silver 121321 TID1011
+Do_Patti 10 Silver 1234323 TID1012
+Do_Patti 1 Silver 1232121 TID1000
+The_Nutcracker 14 Silver 2132123 TID1001
+The_Nutcracker 1 Silver 123242 TID1002
+The_Nutcracker 6 Silver 223214 TID1003
+The_Nutcracker 25 Silver 123132 TID1004
+The_Nutcracker 32 Gold 232342 TID1005
+The_Nutcracker 60 Platinum 32321 TID1006
+The_Nutcracker 69 Platinum 232321 TID1007
+The_Nutcracker 10 Silver 121212 TID1008
+Do_Patti 10 Silver 231321 TID1009
+The_Nutcracker 45 Gold 12121321 TID1010
+The_Nutcracker 10 Silver 1212131 TID1011
+Do_Patti 44 Gold 2312433 TID1012
+The_Nutcracker 30 Silver 132432 TID1013
+The_Nutcracker 10 Silver C001 TID1000
+The_Nutcracker 25 Silver 213121 TID1001

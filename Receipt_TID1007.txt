@@ -1,0 +1,11 @@
+=================================
+         CINEMA RECEIPT
+=================================
+Ticket ID : TID1007
+Customer  : 232321
+Movie     : The_Nutcracker
+Timing    : 8:00AM-9:50AM
+Seat No   : 69
+Category  : Platinum
+Amount    : Rs. 2500
+=================================

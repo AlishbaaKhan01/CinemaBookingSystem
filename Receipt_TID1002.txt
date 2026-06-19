@@ -1,0 +1,11 @@
+=================================
+         CINEMA RECEIPT
+=================================
+Ticket ID : TID1002
+Customer  : 123242
+Movie     : The_Nutcracker
+Timing    : 8:00AM-9:50AM
+Seat No   : 1
+Category  : Silver
+Amount    : Rs. 800
+=================================
